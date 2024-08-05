@@ -3,7 +3,7 @@
 </div>
 
 <div>
-    <h2 align="center">Hi 👋, I'm Harshad Solkar</h2><hr size=2 color=grey >
+    <h2 align="center">Hi 👋, I'm Harshad Solkar</h2>
     <h4 align="center">Crafting Interactive and Responsive User Interfaces</h4>
 </div>
 
