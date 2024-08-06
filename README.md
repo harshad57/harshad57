@@ -28,7 +28,7 @@
 </p>
 <hr size=4 color=grey >
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :-</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23e34c26?style=for-the-badge&logo=Html5&logoColor=%23fff&logoSize=auto"> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=Css3&logoSize=auto"> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
