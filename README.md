@@ -1,8 +1,6 @@
 <p align="right">   
 <img src="https://komarev.com/ghpvc/?username=harshad57&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="harshad57" /> </p>
 
-     <hr size=4 color=grey >
-
 <div align="center">
     <img height="200px" width="280px" src="https://camo.githubusercontent.com/5a40be99b5384a02b2ea628ca7b699d350ffef54b234f5bd09639a3f761c077d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966" alt="Banner Image">
 </div>
