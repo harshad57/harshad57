@@ -29,13 +29,12 @@
 <hr size=4 color=grey >
 
 <h3 align="left">Languages and Tools :-</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23e34c26?style=for-the-badge&logo=Html5&logoColor=%23fff&logoSize=auto"> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=Css3&logoSize=auto"> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<p align="left"> 
+      <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23e34c26?style=for-the-badge&logo=Html5&logoColor=%23fff&logoSize=auto"> 
+      <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=Css3&logoSize=auto"> 
       <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-grey?style=for-the-badge&logo=Javascript&logoSize=auto">   
-          </a> 
-     <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git">
-      </p>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git">
+</p>
 <hr size=4 color=grey >
 
  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=harshad57&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
