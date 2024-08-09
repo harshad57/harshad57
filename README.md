@@ -33,6 +33,8 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=Css3&logoSize=auto"> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-grey?style=for-the-badge&logo=Javascript&logoSize=auto">   
+      <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git">
+
           </a> </p>
 <hr size=4 color=grey >
 
