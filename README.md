@@ -33,9 +33,9 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=Css3&logoSize=auto"> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-grey?style=for-the-badge&logo=Javascript&logoSize=auto">   
-      <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git">
-
-          </a> </p>
+          </a> 
+     <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git">
+      </p>
 <hr size=4 color=grey >
 
  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=harshad57&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
