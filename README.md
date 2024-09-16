@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=harshad57&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="harshad57" /> </p>
 
 <div align="center">
-    <img height="200px" width="280px" src="https://camo.githubusercontent.com/5a40be99b5384a02b2ea628ca7b699d350ffef54b234f5bd09639a3f761c077d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966" alt="Banner Image">
+    <img height="200px" width="280px" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="Banner Image">
 </div>
 
 <div>
