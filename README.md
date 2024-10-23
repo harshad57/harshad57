@@ -35,6 +35,7 @@
       <img src="https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145">
       <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-darkblue?style=for-the-badge&logo=MySql&logoColor=rgb(255%2C255%2C255)">
        <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Programming-%230056b3?style=for-the-badge&logo=C&logoColor=white">
 </p>
 <hr size=4 color=grey >
 
