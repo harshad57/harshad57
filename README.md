@@ -36,6 +36,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-darkblue?style=for-the-badge&logo=MySql&logoColor=rgb(255%2C255%2C255)">
        <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git">
     <img alt="Static Badge" src="https://img.shields.io/badge/Programming-%230056b3?style=for-the-badge&logo=C&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel">
 </p>
 <hr size=4 color=grey >
 
