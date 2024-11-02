@@ -24,7 +24,8 @@
 
 <h3 align="left">Socials :-</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshad-solkar" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoSize=auto" alt="harshad-solkar" height="20" /></a>
+<a href="https://linkedin.com/in/harshad-solkar" target="blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoSize=auto" alt="harshad-solkar" height="21" /></a>
+<a href="https://x.com/Harshad_57?t=UkHCr00ux8Bk8vj3hdCHbQ&s=08" target="blank"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter&logoSize=auto" alt="harshad-solkar" height="21" /></a>
 </p>
 <hr size=4 color=grey >
 
