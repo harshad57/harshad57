@@ -1,12 +1,17 @@
 <p align="right">   
-<img src="https://komarev.com/ghpvc/?username=harshad57&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="harshad57" /> </p>
+<img src="https://komarev.com/ghpvc/?username=harshad57&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="harshad57" />
+</p>
 
 <div align="center">
-    <img height="260px" width="270px" src="gif.gif" alt="Banner Image">
+    <img width="250px" src="gif.gif" alt="Banner Image">
     <p align="center">
-<a href="https://x.com/Harshad_57?t=UkHCr00ux8Bk8vj3hdCHbQ&s=08" target="blank" ><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X" height="23px"/></a>
-<a href="https://linkedin.com/in/harshad-solkar" target="blank" ><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin" height="23px"/></a>
-    </p>
+<a href="https://www.linkedin.com/in/harshad-solkar">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" height="24"/>
+  </a> 
+ <a href="https://twitter.com/harshad57">
+    <img src="https://img.shields.io/badge/Twitter-white?style=flat&logo=X&logoColor=black" alt="Twitter Badge" height="24"/>
+  </a> 
+</p>
 </div>
 
 <div>
