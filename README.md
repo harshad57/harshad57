@@ -4,8 +4,8 @@
 <div align="center">
     <img height="260px" width="270px" src="gif.gif" alt="Banner Image">
     <p align="center">
-<a href="https://x.com/Harshad_57?t=UkHCr00ux8Bk8vj3hdCHbQ&s=08" target="blank" ><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X" height="22px"/></a>
-<a href="https://linkedin.com/in/harshad-solkar" target="blank" ><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin" height="22px"/></a>
+<a href="https://x.com/Harshad_57?t=UkHCr00ux8Bk8vj3hdCHbQ&s=08" target="blank" ><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X" height="23px"/></a>
+<a href="https://linkedin.com/in/harshad-solkar" target="blank" ><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin" height="23px"/></a>
     </p>
 </div>
 
