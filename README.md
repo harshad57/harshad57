@@ -6,10 +6,10 @@
     <img width="250px" src="gif.gif" alt="Banner Image">
     <p align="center">
 <a href="https://www.linkedin.com/in/harshad-solkar">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" height="24"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a> 
  <a href="https://twitter.com/harshad57">
-    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=X&logoColor=black" alt="Twitter Badge" height="24"/>
+    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=X&logoColor=black" alt="Twitter Badge" />
   </a> 
 </p>
 </div>
