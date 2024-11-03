@@ -3,6 +3,10 @@
 
 <div align="center">
     <img height="260px" width="270px" src="gif.gif" alt="Banner Image">
+    <p align="center">
+<a href="https://x.com/Harshad_57?t=UkHCr00ux8Bk8vj3hdCHbQ&s=08" target="blank" ><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X" height="22px"/></a>
+<a href="https://linkedin.com/in/harshad-solkar" target="blank" ><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin" height="22px"/></a>
+    </p>
 </div>
 
 <div>
@@ -20,13 +24,6 @@
     <p>- 📫 How to reach me :-<br> <strong>harshadsolkar57@gmail.com</strong></p>
 </div>
 
-<hr size=4 color=grey >
-
-<h3 align="left">Socials :-</h3>
-<p align="left">
-<a href="https://x.com/Harshad_57?t=UkHCr00ux8Bk8vj3hdCHbQ&s=08" target="blank"><img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=X&logoSize=auto" alt="harshad-solkar" height="22" /></a>
-<a href="https://linkedin.com/in/harshad-solkar" target="blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoSize=auto" alt="harshad-solkar" height="22" /></a>
-</p>
 <hr size=4 color=grey >
 
 <h3 align="left">Languages and Tools :-</h3>
