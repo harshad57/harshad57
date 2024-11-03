@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=harshad57&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="harshad57" /> </p>
 
 <div align="center">
-    <img height="280px" width="270px" src="gif.gif" alt="Banner Image">
+    <img height="260px" width="270px" src="gif.gif" alt="Banner Image">
 </div>
 
 <div>
