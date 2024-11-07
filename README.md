@@ -6,7 +6,7 @@
     <img width="250px" src="gif.gif" alt="Banner Image">
     <p align="center">
 <a href="https://www.linkedin.com/in/harshad-solkar">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a> 
  <a href="https://twitter.com/Harshad_57">
     <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=X&logoColor=black" alt="Twitter Badge" />
