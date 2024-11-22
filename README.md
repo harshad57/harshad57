@@ -17,18 +17,18 @@
 <div>
     <h2 align=center >
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=4000&lines=Hi+👋+,+i'm+Harshad+Solkar;" >
-   </h2>
+    </h2>
     <h4 align="center">Crafting Interactive and Responsive User Interfaces</h4>
 </div>
 
-<hr size=4 color=grey >
+<hr>
 
 <div>
     <p>- 👯 I’m looking to collaborate on :-<br> <strong>Fullstack projects</strong></p>
     <p>- 📫 How to reach me :-<br> <strong>harshadsolkar57@gmail.com</strong></p>
 </div>
 
-<hr size=4 color=grey >
+<hr>
 
 <h3 align="left">Languages and Tools :-</h3>
 <p align="left"> 
@@ -40,7 +40,8 @@
 <img src="https://img.shields.io/badge/Programming-%230056b3?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel">
 </p>
-<hr size=4 color=grey >
+
+<hr>
 
  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=harshad57&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img width=395 src="https://github-readme-stats-salesp07.vercel.app/api?username=harshad57&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
