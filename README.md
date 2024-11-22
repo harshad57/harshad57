@@ -18,7 +18,7 @@
     <h2 align=center >
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=4000&lines=Hi+👋+,+i'm+Harshad+Solkar;" >
    </h2>
-
+ <hr size=2 color=grey>
     <h4 align="center">Crafting Interactive and Responsive User Interfaces</h4>
 </div>
 
