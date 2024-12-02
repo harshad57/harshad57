@@ -18,7 +18,7 @@
     <h2 align=center >
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=4000&lines=Hi+👋+,+i'm+Harshad+Solkar;" >
     </h2>
-    <h4 align="center">"Transforming creativity and logic into seamless, responsive user experiences through innovative design and development."
+    <h4 align="center">"Transforming creativity and logic into seamless, responsive user experiences through innovative design and development"
 </h4>
 </div>
 
