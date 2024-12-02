@@ -25,7 +25,7 @@
 <hr>
 
 <div>
-    <p>- 👯 I’m looking to collaborate on :-<br> <strong>Fullstack projects</strong></p>
+    <p>- 👯 I’m looking to collaborate on :-<br> <strong>      Fullstack projects</strong></p>
     <p>- 📫 How to reach me :-<br> <strong>harshadsolkar57@gmail.com</strong></p>
 </div>
 
