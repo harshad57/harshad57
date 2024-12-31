@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel">
 <img src="https://img.shields.io/badge/Programming-%230056b3?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%23112240?style=for-the-badge&logo=tailwindcss&logoColor=%2338BDF8&logoSize=auto">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto">
 </p>
 
 <hr>
