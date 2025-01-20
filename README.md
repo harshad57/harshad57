@@ -42,6 +42,7 @@
 <img src="https://img.shields.io/badge/Programming-%230056b3?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%23112240?style=for-the-badge&logo=tailwindcss&logoColor=%2338BDF8&logoSize=auto">
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto">
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 </p>
 
 <hr>
